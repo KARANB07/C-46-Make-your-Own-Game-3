@@ -1,0 +1,5 @@
+4 players 
+goal is to kill other 3 players
+there will be 2 cars which can be used to move faster
+Guns will be on the floor if the player picks them up then they can shoot other players
+There will be game.js,player.js,form.js
